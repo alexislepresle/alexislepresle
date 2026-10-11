@@ -1,16 +1,16 @@
-### Hi there 👋
+### Alexis Lepresle
 
-<!--
-**alexislepresle/alexislepresle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of [Orsay Agency](https://orsay.agency), a Shopify agency based in Paris.
 
-Here are some ideas to get you started:
+**What we do**
+- Custom Shopify stores, up to Shopify Plus.
+- Custom SaaS and applications.
+- Shopify POS, connecting online and in-store retail.
+- Migrations to Shopify and long-term support for brands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm into**
+- Building with AI: tools and automations that save real time.
+- Products with great UX, fast and a pleasure to use.
+- Unified commerce, online and in store.
+
+📫 [orsay.agency](https://orsay.agency)
